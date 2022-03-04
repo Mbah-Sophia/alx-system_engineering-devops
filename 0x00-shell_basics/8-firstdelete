@@ -1,2 +1,3 @@
-#!/bin/bash
-rm /tmp/my_first_directory/betty
+[master 7a2355c] Created 8-firstdelete file
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x00-shell_basics/8-firstdelete
