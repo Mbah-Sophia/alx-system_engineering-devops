@@ -1,1 +1,2 @@
-#!/bin/bash\n-R +X .
+#!/bin/bash
+-R +X .
